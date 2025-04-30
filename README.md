@@ -2,9 +2,11 @@
 # Restricciones de Integridad
 GastroDataDB y MoveFast
 
+
 Facultad de Ingeniería 
 
 Base de Datos
+
 
 Liseth Natalia Rivera Córdoba
 
